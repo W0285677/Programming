@@ -1,4 +1,4 @@
-__author__ = '0285677'
+__author__ = 'w0285677'
 
 #1. Prompt the user to enter three numbers.
 print("We're gonna need ya to enter three numbers...")
